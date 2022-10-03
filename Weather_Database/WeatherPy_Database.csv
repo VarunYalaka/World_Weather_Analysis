@@ -1,0 +1,45 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Hermanus,ZA,-34.4187,19.2345,71.8,62,0,7.72,clear sky
+1,Touros,BR,-5.1989,-35.4608,75.65,75,1,13.58,clear sky
+2,Kapaa,US,22.0752,-159.319,76.98,92,40,4.61,light rain
+3,Rikitea,PF,-23.1203,-134.9692,73.38,69,10,10.27,clear sky
+4,Aswan,EG,24.0934,32.907,100.47,16,0,9.19,clear sky
+5,Arraial Do Cabo,BR,-22.9661,-42.0278,66.06,94,20,2.3,few clouds
+6,Ribeira Grande,PT,38.5167,-28.7,70.2,100,75,20.71,shower rain
+7,Punta Arenas,CL,-53.15,-70.9167,26.71,93,0,6.91,clear sky
+8,Mumford,GH,5.2618,-0.759,76.96,85,96,4.09,light rain
+9,Qunduz,AF,36.729,68.857,80.82,14,0,9.75,clear sky
+10,Yellowknife,CA,62.456,-114.3525,57.72,72,100,6.91,overcast clouds
+11,Saint George,US,37.1041,-113.5841,70.39,43,0,1.01,clear sky
+12,Jumla,NP,29.2747,82.1838,67.8,63,39,5.12,scattered clouds
+13,Norman Wells,CA,65.282,-126.8329,33.84,93,100,21.85,light snow
+14,Cape Town,ZA,-33.9258,18.4232,76.12,52,0,16.11,clear sky
+15,Vaini,TO,-21.2,-175.2,75.36,83,20,6.91,few clouds
+16,Albany,US,42.6001,-73.9662,50.65,76,4,1.01,clear sky
+17,Bethel,US,41.3712,-73.414,60.49,69,100,3.0,overcast clouds
+18,Busselton,AU,-33.65,115.3333,61.21,54,90,12.26,overcast clouds
+19,Cukai,MY,4.25,103.4167,82.35,85,100,4.5,overcast clouds
+20,Ponta Do Sol,PT,32.6667,-17.1,72.23,74,13,2.93,few clouds
+21,Kodiak,US,57.79,-152.4072,45.91,87,100,5.75,overcast clouds
+22,Hasaki,JP,35.7333,140.8333,72.0,62,78,9.28,broken clouds
+23,Richards Bay,ZA,-28.783,32.0377,77.43,64,86,5.68,overcast clouds
+24,Panzhihua,CN,26.5851,101.7128,85.77,55,60,3.31,broken clouds
+25,Faanui,PF,-16.4833,-151.75,78.49,70,81,14.18,broken clouds
+26,Taltal,CL,-25.4,-70.4833,57.25,74,90,4.72,overcast clouds
+27,Ushuaia,AR,-54.8,-68.3,35.26,69,0,6.91,clear sky
+28,Tiksi,RU,71.6872,128.8694,23.86,86,100,16.46,overcast clouds
+29,Ahipara,NZ,-35.1667,173.1667,59.09,95,100,14.45,overcast clouds
+30,Mataura,NZ,-46.1927,168.8643,47.48,98,27,1.86,scattered clouds
+31,Nhamunda,BR,-2.1861,-56.7131,74.59,89,98,2.73,overcast clouds
+32,Oktyabrskoye,RU,43.0645,44.7417,80.74,28,100,13.42,overcast clouds
+33,Qaanaaq,GL,77.484,-69.3632,6.22,67,7,7.92,clear sky
+34,Omagh,GB,54.6,-7.3,53.15,84,52,5.14,broken clouds
+35,Avarua,CK,-21.2078,-159.775,71.65,68,75,10.36,broken clouds
+36,Khambhat,IN,22.3,72.6167,88.83,52,3,6.24,clear sky
+37,Sao Filipe,CV,14.8961,-24.4956,77.45,73,100,8.88,overcast clouds
+38,Xining,CN,36.6167,101.7667,58.44,48,100,10.83,overcast clouds
+39,Quatre Cocos,MU,-20.2078,57.7625,77.11,58,22,12.06,few clouds
+40,Salta,AR,-24.7859,-65.4117,48.79,76,0,5.75,clear sky
+41,Ca Mau,VN,9.1769,105.15,81.07,83,100,4.92,overcast clouds
+42,Tautira,PF,-17.7333,-149.15,76.96,75,100,11.43,light rain
+43,Am Timan,TD,11.0297,20.2827,85.68,67,83,7.29,broken clouds
